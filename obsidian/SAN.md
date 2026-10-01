@@ -38,6 +38,14 @@ Order matters: **audience -> trust -> community -> action**. Protests without a 
 - Learn from past Mongolian youth/civic movements: what worked, what stalled.
 - Open: which issues first (air pollution, cost of living, corruption, education)? Check polls/surveys.
 
+## Video format: motion-graphic explainer
+Inspiration: Game Theory style (fast, researched, animated graphics over a narrated script). Similar: Kurzgesagt, Vox, Johnny Harris, Wendover.
+- Pipeline: topic -> research with sources -> script (hook in first 5 sec) -> voiceover -> storyboard -> motion graphics (maps, charts, text, simple icons) -> edit + music -> thumbnail/title.
+- Tools to learn: DaVinci Resolve (free) or CapCut for editing; After Effects/Alight Motion/Canva for motion; Figma for assets. Start simple: maps, animated numbers, kinetic text, stock footage. No need for full animation.
+- Start with 2-3 min videos, 1 per 1-2 weeks. Script and research are 70% of the work; the animation can be simple.
+- Good first topics: where Mongolia's money goes, why UB air is bad, how prices rise, Mongolia vs a country you know.
+- Split roles: researcher/writer, voice, editor/animator.
+
 ## Honest odds
 - Most creator channels never reach a meaningful audience. Odds of "big" are low for any single channel.
 - Odds of **some** audience (thousands of followers) are decent if you ship consistently for 6-12 months. Most people quit before then.
@@ -86,3 +94,4 @@ Order matters: **audience -> trust -> community -> action**. Protests without a 
 - Mission: make young Mongolians aware of what is happening at home, then use the influence to fix things. Final goal: a youth-led movement for change; protests today look disorganized.
 - Clarified: SAN is only for соён гэгээрүүлэлт. The movement/protest talk is just an idea, not a plan.
 - Name origin: school Цайхун гэгээ was bought by Эрдмийн сан, they hated it -> Хогийн сан joke.
+- Wants to make Game Theory-style motion-graphic explainer videos.
