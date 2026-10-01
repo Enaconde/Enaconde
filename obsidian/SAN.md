@@ -78,6 +78,13 @@ Inspiration: Game Theory style (fast, researched, animated graphics over a narra
 - #1 inflation with a real shopping basket
 - #6 UB air pollution
 
+## Faceless plan
+Founder does not want to show face at first. Works well for motion-graphic explainers (Kurzgesagt, Wendover and many others are faceless).
+- Voiceover + graphics carry the video. Voice becomes the personality.
+- Street quiz (#10) needs faces: ask people's permission, or blur/crop, or film hands/voices only; or do it later with a friend as host.
+- Build the brand around SAN (logo, mascot, colors, intro sound), not a person. Easier for friends to share the work and for the brand to outlive any one member.
+- Faces can come later if/when comfortable.
+
 ## Honest odds
 - Most creator channels never reach a meaningful audience. Odds of "big" are low for any single channel.
 - Odds of **some** audience (thousands of followers) are decent if you ship consistently for 6-12 months. Most people quit before then.
@@ -128,3 +135,4 @@ Inspiration: Game Theory style (fast, researched, animated graphics over a narra
 - Name origin: school Цайхун гэгээ was bought by Эрдмийн сан, they hated it -> Хогийн сан joke.
 - Wants to make Game Theory-style motion-graphic explainer videos.
 - Brainstormed 16 video ideas. Best first 3: #10, #1, #6.
+- Doesn't want to show face at first: go faceless, brand-first.
