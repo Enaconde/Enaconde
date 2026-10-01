@@ -46,6 +46,38 @@ Inspiration: Game Theory style (fast, researched, animated graphics over a narra
 - Good first topics: where Mongolia's money goes, why UB air is bad, how prices rise, Mongolia vs a country you know.
 - Split roles: researcher/writer, voice, editor/animator.
 
+## Video ideas (verify all facts before using)
+**Money & daily life**
+1. Why does everything get more expensive? (inflation explained with a Mongolian shopping basket)
+2. Where does Mongolia's money come from? (mining, coal, copper exports) and where does it go?
+3. Why is your salary not enough? Rent, prices, wages compared
+4. How a loan or credit card really works (interest, why people get stuck in debt)
+5. Mongolia's "Resource curse": why a country with so many minerals stays poor
+
+**City & environment**
+6. Why is Ulaanbaatar's air so bad? (ger districts, coal, winter, what the solutions cost)
+7. Why is UB traffic so bad? (planning, car numbers, roads)
+8. Where does your trash go?
+
+**Country & power**
+9. How does Mongolia's government work? (parliament, president, who decides what, in 3 minutes)
+10. What do you actually know about your own country? (street interview: America vs Mongolia quiz; ties to your mission)
+11. Mongolia between Russia and China: why geography matters
+12. How elections work, and why your vote counts or doesn't
+
+**World & comparison**
+13. Why did a small country like Singapore/South Korea get rich? What can Mongolia learn?
+14. Mongolia then and now (Soviet era, 1990 democracy, today)
+
+**Education (ties to SAN origin)**
+15. What school didn't teach you: money, taxes, rights, how to start a business
+16. Private vs public schools: who earns money from education?
+
+**Best first 3 (easy research, high interest, shareable):**
+- #10 street interview quiz (cheap, funny, proves the mission)
+- #1 inflation with a real shopping basket
+- #6 UB air pollution
+
 ## Honest odds
 - Most creator channels never reach a meaningful audience. Odds of "big" are low for any single channel.
 - Odds of **some** audience (thousands of followers) are decent if you ship consistently for 6-12 months. Most people quit before then.
@@ -95,3 +127,4 @@ Inspiration: Game Theory style (fast, researched, animated graphics over a narra
 - Clarified: SAN is only for соён гэгээрүүлэлт. The movement/protest talk is just an idea, not a plan.
 - Name origin: school Цайхун гэгээ was bought by Эрдмийн сан, they hated it -> Хогийн сан joke.
 - Wants to make Game Theory-style motion-graphic explainer videos.
+- Brainstormed 16 video ideas. Best first 3: #10, #1, #6.
