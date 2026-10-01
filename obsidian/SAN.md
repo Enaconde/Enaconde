@@ -24,7 +24,8 @@ A friend group creates content under one shared brand, **SAN**. Each person runs
 - Short formats: "Mongolia in 60 seconds", explainers, street interviews, comparing US news vs home news.
 - Measure success by shares and comments, not only views.
 
-## Movement idea
+## Movement idea (just a thought, NOT a plan)
+Core purpose of SAN is **соён гэгээрүүлэлт** (enlightenment / awareness / education) only. The ideas below are a side thought, not a commitment.
 Order matters: **audience -> trust -> community -> action**. Protests without a base tend to fizzle.
 - Pick 1-2 specific, winnable demands, not "everything is bad". Clear demand = clear win/lose.
 - Build a list of people (Telegram/Discord) before any event: a protest is just a community that shows up.
@@ -80,3 +81,4 @@ Order matters: **audience -> trust -> community -> action**. Protests without a 
 ### 2026-10-01
 - Separate project from [[Enaconde]]. Started as a talk between friends about a shared content brand.
 - Mission: make young Mongolians aware of what is happening at home, then use the influence to fix things. Final goal: a youth-led movement for change; protests today look disorganized.
+- Clarified: SAN is only for соён гэгээрүүлэлт. The movement/protest talk is just an idea, not a plan.
