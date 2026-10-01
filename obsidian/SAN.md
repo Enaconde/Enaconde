@@ -78,6 +78,14 @@ Inspiration: Game Theory style (fast, researched, animated graphics over a narra
 - #1 inflation with a real shopping basket
 - #6 UB air pollution
 
+## Style reality check
+Kurzgesagt is a large studio team with full custom animation; do not try to copy it. Aim for an achievable look:
+- Flat 2D icons + simple shapes (Canva/Figma/free icon packs), consistent color palette and font
+- Animated charts/numbers, maps, kinetic text, simple zooms and slides
+- Reference channels with a simpler look: Wendover, Polymatter, RealLifeLore, Johnny Harris (maps), CGP Grey (stick figures)
+- Choose ONE visual style and stick to it; consistency makes it look professional.
+- Improve a little each video.
+
 ## Faceless plan
 Founder does not want to show face at first. Works well for motion-graphic explainers (Kurzgesagt, Wendover and many others are faceless).
 - Voiceover + graphics carry the video. Voice becomes the personality.
@@ -136,3 +144,4 @@ Founder does not want to show face at first. Works well for motion-graphic expla
 - Wants to make Game Theory-style motion-graphic explainer videos.
 - Brainstormed 16 video ideas. Best first 3: #10, #1, #6.
 - Doesn't want to show face at first: go faceless, brand-first.
+- Kurzgesagt graphics too hard to replicate; go for simpler flat-icon/map/chart style.
