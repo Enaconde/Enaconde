@@ -10,6 +10,19 @@ status: idea / not started
 ## Idea
 A friend group creates content under one shared brand, **SAN**. Each person runs a vertical: SAN Information, SAN Gaming, SAN [something]. Goal: build influence with the younger generation.
 
+## Mission (from the founder)
+- Young Mongolians (18-25) tend toward "idk, we don't care". Many know more about America than about what is happening at home.
+- Belief: this generation will live in the future and can fix Mongolia's problems, but first has to know what is going on.
+- Plan: gain influence first, then "maybe..." (thought unfinished, to be completed).
+
+### What this means for the plan
+- Apathetic audience will not watch a lecture. **Entertainment first, information hidden inside it.**
+- "SAN Information" is probably the core vertical; gaming/lifestyle verticals can bring in the audience that info alone won't reach.
+- Credibility is the asset: cite sources, separate fact from opinion, be careful about defamation. Not tied to a party.
+- Make it personal and local: "what does this mean for your salary, rent, air pollution, tuition" beats abstract politics.
+- Short formats: "Mongolia in 60 seconds", explainers, street interviews, comparing US news vs home news.
+- Measure success by shares and comments, not only views.
+
 ## Honest odds
 - Most creator channels never reach a meaningful audience. Odds of "big" are low for any single channel.
 - Odds of **some** audience (thousands of followers) are decent if you ship consistently for 6-12 months. Most people quit before then.
@@ -55,3 +68,4 @@ A friend group creates content under one shared brand, **SAN**. Each person runs
 ## Chat log
 ### 2026-10-01
 - Separate project from [[Enaconde]]. Started as a talk between friends about a shared content brand.
+- Mission: make young Mongolians aware of what is happening at home, then use the influence to fix things. Final goal after "maybe..." still to be said.
