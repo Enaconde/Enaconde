@@ -78,6 +78,13 @@ Inspiration: Game Theory style (fast, researched, animated graphics over a narra
 - #1 inflation with a real shopping basket
 - #6 UB air pollution
 
+## Easiest format that works (decision)
+**Short vertical videos (30-60 sec)**: voiceover + big captions + simple charts/maps/stock footage/screenshots of real headlines. Post on TikTok, YouTube Shorts, Reels at once (same file).
+- Why: fastest to make (1-2 hrs), fastest feedback, algorithm shows new accounts to strangers, can make 3-5 per week.
+- Template: hook (question or shocking fact) -> 3 facts -> one takeaway -> "follow SAN". Source on screen.
+- Tools: CapCut (free, auto-captions, templates).
+- Later: when a short gets big, make the longer 3-min animated explainer on the same topic.
+
 ## Style reality check
 Kurzgesagt is a large studio team with full custom animation; do not try to copy it. Aim for an achievable look:
 - Flat 2D icons + simple shapes (Canva/Figma/free icon packs), consistent color palette and font
@@ -145,3 +152,4 @@ Founder does not want to show face at first. Works well for motion-graphic expla
 - Brainstormed 16 video ideas. Best first 3: #10, #1, #6.
 - Doesn't want to show face at first: go faceless, brand-first.
 - Kurzgesagt graphics too hard to replicate; go for simpler flat-icon/map/chart style.
+- Decision: start with easy faceless short-form (CapCut), long animated videos later.
