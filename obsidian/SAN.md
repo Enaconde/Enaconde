@@ -13,7 +13,8 @@ A friend group creates content under one shared brand, **SAN**. Each person runs
 ## Mission (from the founder)
 - Young Mongolians (18-25) tend toward "idk, we don't care". Many know more about America than about what is happening at home.
 - Belief: this generation will live in the future and can fix Mongolia's problems, but first has to know what is going on.
-- Plan: gain influence first, then "maybe..." (thought unfinished, to be completed).
+- Plan: gain influence first, then use it for a **movement to change things**.
+- Trigger: saw a protest of mostly 30+ people with unclear message. Feels like it needed more organizing.
 
 ### What this means for the plan
 - Apathetic audience will not watch a lecture. **Entertainment first, information hidden inside it.**
@@ -22,6 +23,16 @@ A friend group creates content under one shared brand, **SAN**. Each person runs
 - Make it personal and local: "what does this mean for your salary, rent, air pollution, tuition" beats abstract politics.
 - Short formats: "Mongolia in 60 seconds", explainers, street interviews, comparing US news vs home news.
 - Measure success by shares and comments, not only views.
+
+## Movement idea
+Order matters: **audience -> trust -> community -> action**. Protests without a base tend to fizzle.
+- Pick 1-2 specific, winnable demands, not "everything is bad". Clear demand = clear win/lose.
+- Build a list of people (Telegram/Discord) before any event: a protest is just a community that shows up.
+- Roles: spokesperson, safety/legal, media, logistics. Plan the route, time, permits.
+- Stay peaceful and within the law. Violence loses public sympathy and gives authorities a reason to crack down.
+- Document everything on video; SAN's media skill is the natural advantage here.
+- Learn from past Mongolian youth/civic movements: what worked, what stalled.
+- Open: which issues first (air pollution, cost of living, corruption, education)? Check polls/surveys.
 
 ## Honest odds
 - Most creator channels never reach a meaningful audience. Odds of "big" are low for any single channel.
@@ -68,4 +79,4 @@ A friend group creates content under one shared brand, **SAN**. Each person runs
 ## Chat log
 ### 2026-10-01
 - Separate project from [[Enaconde]]. Started as a talk between friends about a shared content brand.
-- Mission: make young Mongolians aware of what is happening at home, then use the influence to fix things. Final goal after "maybe..." still to be said.
+- Mission: make young Mongolians aware of what is happening at home, then use the influence to fix things. Final goal: a youth-led movement for change; protests today look disorganized.
