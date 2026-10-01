@@ -11,7 +11,7 @@ status: idea / not started
 A friend group creates content under one shared brand, **SAN**. Each person runs a vertical: SAN Information, SAN Gaming, SAN [something]. Goal: build influence with the younger generation.
 
 ## Name origin
-Friends went to the same school (Эрдмийн сан, grades 1-12) and hated it, so they jokingly called it **"Хогийн сан"**. "SAN" comes from "сан" (fund / treasury). Started as nonsense, no deeper meaning. Irony to use: the school was the "treasury of knowledge" but taught them little about real life; SAN is the learning they actually wanted.
+Friends studied together at **Цайхун гэгээ** school. It was later bought by **Эрдмийн сан**, and they hated it, so they jokingly called it **"Хогийн сан"**. "SAN" comes from "сан" (fund / treasury). No deeper meaning, just a friend-group joke. (Corrected: earlier note wrongly said they studied at Эрдмийн сан from grade 1.)
 
 ## Mission (from the founder)
 - Young Mongolians (18-25) tend toward "idk, we don't care". Many know more about America than about what is happening at home.
@@ -85,4 +85,4 @@ Order matters: **audience -> trust -> community -> action**. Protests without a 
 - Separate project from [[Enaconde]]. Started as a talk between friends about a shared content brand.
 - Mission: make young Mongolians aware of what is happening at home, then use the influence to fix things. Final goal: a youth-led movement for change; protests today look disorganized.
 - Clarified: SAN is only for соён гэгээрүүлэлт. The movement/protest talk is just an idea, not a plan.
-- Name origin: Эрдмийн сан -> Хогийн сан joke. No meaning, but a good story.
+- Name origin: school Цайхун гэгээ was bought by Эрдмийн сан, they hated it -> Хогийн сан joke.
